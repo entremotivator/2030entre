@@ -67,7 +67,7 @@ export default function AboutSection() {
         <h1 className="titleColor font-bold text-4xl pb-4 mt-[-30px]">About</h1>
         <div className="flex flex-col gap-0.5 text-[1.03rem] px-[15px] leading-5 md:leading-normal hyphens-auto indent-5">
           <p>
-            I’m Eduard, a Full-Stack developer from Romania, with a focus on
+            I’m D Hudson, a Full-Stack developer from Atlanta, with a focus on
             building dynamic and engaging web experiences. I love working at the
             intersection of design and functionality, where I can create
             seamless user interfaces that feel intuitive and look aesthetic. A
