@@ -76,7 +76,7 @@ export default function LoadingScreen({ suspenseLoading }) {
       <Spinner hueRotation={hueRotation} />
       <div className="absolute inset-0 flex flex-col gap-4 lg:gap-16 justify-center items-center">
         <h1 className="titleColor font-extrabold uppercase text-[15vw] lg:text-[10vw] landscape:text-[13dvh] flex flex-col whitespace-nowrap leading-none tracking-wider">
-          E/S <span>Portfolio</span>
+          Entre <span>Portfolio</span>
         </h1>
         <a.p
           style={loadingTextAnimation1}
