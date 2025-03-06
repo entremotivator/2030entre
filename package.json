@@ -1,0 +1,51 @@
+{
+  "name": "es-portfolio",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@react-spring/three": "^9.7.4",
+    "@react-spring/web": "^9.7.4",
+    "@react-three/drei": "^9.113.0",
+    "@react-three/fiber": "^8.17.7",
+    "@react-three/postprocessing": "^2.16.2",
+    "@studio-freight/lenis": "^1.0.27",
+    "howler": "^2.2.4",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-hook-form": "^7.53.1",
+    "react-merge-refs": "^2.1.1",
+    "react-router-dom": "^6.26.2",
+    "three": "^0.168.0",
+    "uuid": "^10.0.0",
+    "zod": "^3.23.8",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.8",
+    "@types/react-dom": "^18.3.0",
+    "@types/three": "^0.168.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "@yushijinhun/three-minifier-rollup": "^0.4.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.36.1",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.12",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.47",
+    "sass": "^1.79.3",
+    "tailwindcss": "^3.4.12",
+    "vite": "^5.4.7",
+    "vite-plugin-filter-replace": "^0.1.13"
+  }
+}
