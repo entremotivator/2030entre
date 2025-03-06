@@ -119,7 +119,7 @@ function DesktopHeader() {
         onPointerEnter={playHoverSound}
         className="text-4xl"
       >
-        <span className="font-semibold">Eduard</span>Stroescu
+        <span className="font-semibold">D</span>Hudson
       </Link>
       <div className="w-full flex justify-end items-center overflow-hidden font-bold">
         {navItems.slice(1).map((navItem) =>
@@ -275,7 +275,7 @@ function MobileHeader() {
         onPointerEnter={playHoverSound}
         className="text-2xl z-[60] pointer-events-auto"
       >
-        <span className="font-semibold">Eduard</span>Stroescu
+        <span className="font-semibold">D</span>Hudson
       </Link>
       <HamburgerButton menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <a.aside
