@@ -1,8 +1,8 @@
 export const projectsData = [
   {
-    title: "QUILLSCRIBE",
+    title: "VIP BUSINESS CREDIT",
     liveLink: "https://quillscribe.vercel.app/",
-    codeLink: "https://github.com/EduardStroescu/QuillScribe/tree/main",
+    codeLink: "https://github.com/Entremotivator",
     titleColor: "#9544c7",
     sceneColor: [42, 108, 101],
     projectDescription:
@@ -29,7 +29,7 @@ export const projectsData = [
   {
     title: "RIPPLELINK",
     liveLink: "https://ripple-link.vercel.app/",
-    codeLink: "https://github.com/EduardStroescu/RippleLink-Frontend",
+    codeLink: "https://github.com/Entremotivator",
     titleColor: "#adb6c9",
     sceneColor: [104, 79, 26],
     projectDescription:
@@ -56,7 +56,7 @@ export const projectsData = [
   {
     title: "EXPODASH",
     liveLink: "https://expo-dash.vercel.app/",
-    codeLink: "https://github.com/EduardStroescu/ExpoDash",
+    codeLink: "https://github.com/Entremotivator",
     titleColor: "#c7b344",
     sceneColor: [88, 30, 68],
     projectDescription:
@@ -83,7 +83,7 @@ export const projectsData = [
     title: "NEURALCOUTURE",
     liveLink: "https://neural-couture.vercel.app/",
     codeLink:
-      "https://github.com/EduardStroescu/NeuralCouture-Storefront/tree/main",
+      "https://github.com/Entremotivator",
     titleColor: "#44c7bc",
     sceneColor: [89, 40, 119],
     projectDescription:
@@ -107,7 +107,7 @@ export const projectsData = [
     title: "SCREENSYNCED",
     liveLink: "https://screensynced.vercel.app/",
     codeLink:
-      "https://github.com/EduardStroescu/ScreenSynced-FrontEnd/tree/main",
+      "https://github.com/Entremotivator",
     titleColor: "#739ff5",
     sceneColor: [128, 105, 59],
     projectDescription:
@@ -133,7 +133,7 @@ export const projectsData = [
   {
     title: "JJK",
     liveLink: "https://jjk-promo.vercel.app/",
-    codeLink: "https://github.com/EduardStroescu/JJK-promo/tree/main",
+    codeLink: "https://github.com/Entremotivator",
     titleColor: "#c73232",
     sceneColor: [42, 108, 101],
     projectDescription:
