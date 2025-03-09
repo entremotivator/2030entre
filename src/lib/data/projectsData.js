@@ -1,6 +1,6 @@
 export const projectsData = [
   {
-    title: "VIP BUSINESS CREDIT",
+    title: "3D Real Esate",
     liveLink: "https://quillscribe.vercel.app/",
     codeLink: "https://github.com/Entremotivator",
     titleColor: "#9544c7",
@@ -104,7 +104,7 @@ export const projectsData = [
       "https://res.cloudinary.com/dgfe1xsgj/video/upload/ac_none,fl_immutable_cache,vc_h265,f_auto:video,q_auto/v1712931617/Portfolio/Videos/g5fq9xr37useoe5wevax",
   },
   {
-    title: "SCREENSYNCED",
+    title: "VIP BUSINESS CREDIT",
     liveLink: "https://screensynced.vercel.app/",
     codeLink:
       "https://github.com/Entremotivator",
